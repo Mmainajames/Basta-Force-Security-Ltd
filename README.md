@@ -6,8 +6,7 @@ The site highlights company services, mission, testimonials, and contact informa
 ---
 
 ## 🌐 Live Demo
-(Deploy on **Netlify**, **Vercel**, or **GitHub Pages** and paste your live link here)
-
+https://bastaforce.netlify.app
 ---
 
 ## 📂 Project Structure
